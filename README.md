@@ -3,4 +3,4 @@ Uso: Equipar lapiz lazuli y hacer click derecho (usar) sobre bloques que deben h
 
 comando /th_reset elimina todas las áreas de daño existentes
 
-El plugin guarda y carga estas areas segun el servidor/plugin sea reiniciado
+El plugin guarda y carga estas áreas segun el servidor/plugin sea reiniciado
