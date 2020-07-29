@@ -1,0 +1,9 @@
+name: trigger_hurt
+version: 1.0
+author: qgerman2
+main: qgerman2.trigger_hurt.Main
+api-version: 1.16
+commands:
+  th_reset:
+    description: Elimina todas las areas de daño
+    usage: /th_reset
